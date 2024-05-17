@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+
+
+  
+
+.form-control:focus {
+        border-color: #2be2c3;
+        box-shadow: 0 0 0 0.05rem rgba(40, 167, 69, 0.25);
+    } 
+    
+.btn-primary{
+	background-color: #36b947
+}
+
+.admin-btn{
+	background-color: #36b947
+}
+
